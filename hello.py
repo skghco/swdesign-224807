@@ -1,1 +1,1 @@
-print('hello')
+print('love and peace')
